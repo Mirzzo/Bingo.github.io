@@ -1,4 +1,4 @@
-First web project of me and my roomate.
+First web project of me and my roommate.
 Definetly alot of room for improvment when it comes to the code, but we've come along way since then!
 
 
